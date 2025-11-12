@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef4bd7e-b25c-4772-a036-9f92d7fac71c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Looping/Demo_dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Looping/Demo_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Looping/Demo_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Looping/Do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Looping/For_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Stirngs/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1761288706584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Looping">
+      <created>1761901639933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761901639933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +94,7 @@
     <MESSAGE value="datatypes,casting then operators" />
     <MESSAGE value="control stmts" />
     <MESSAGE value="Banking" />
-    <option name="LAST_COMMIT_MESSAGE" value="Banking" />
+    <MESSAGE value="Looping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Looping" />
   </component>
 </project>
