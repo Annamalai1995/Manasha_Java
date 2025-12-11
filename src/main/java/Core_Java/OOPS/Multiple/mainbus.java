@@ -18,5 +18,5 @@ public class mainbus  implements bus,bus1{
         mainbus mb= new mainbus();
         mb.Passenger();
         mb.Travels();
-    }
+     }
 }
