@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef4bd7e-b25c-4772-a036-9f92d7fac71c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Abstarction/Caraccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/ENCAPSULATION/SELLER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Polymorphism/overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Array/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Array/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Array/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Core_Java/OOPS/Multiple/mainbus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core_Java/OOPS/Multiple/mainbus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1765347074698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="overloading oops completed">
+      <created>1765432369755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765432369755</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +129,18 @@
     <MESSAGE value="Strings" />
     <MESSAGE value="Constructor" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="overloading oops completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="overloading oops completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Core_Java/Array/CreateArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
