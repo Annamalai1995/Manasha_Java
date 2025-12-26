@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef4bd7e-b25c-4772-a036-9f92d7fac71c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Exception/DemoArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Exception/Runtime_error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Exception/chance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Core_Java/Array/update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Array/update.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1765953876468</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updates">
+      <created>1766122486588</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766122486588</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -136,7 +145,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="overloading oops completed" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
