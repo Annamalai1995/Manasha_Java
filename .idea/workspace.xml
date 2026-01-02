@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef4bd7e-b25c-4772-a036-9f92d7fac71c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Collection/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Collection/Demo_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Collection/Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_Java/Collection/stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1766725645081</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Arraylist and Vector">
+      <created>1767161313406</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767161313406</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,7 +161,8 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Updates" />
     <MESSAGE value="Exception over" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception over" />
+    <MESSAGE value="Arraylist and Vector" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arraylist and Vector" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
